@@ -2,18 +2,30 @@
 
 *Je m'appelle Jyotirmaya.*
 
-I am a Research Scholar at Dr. Subhankar Mishra’s Lab (@[smlab-niser](https://github.com/smlab-niser/)), National Institute of Science Education and Research (NISER), Bhubaneswar. I completed my Integrated M.S. at NISER in 2022, majoring in Physics, with a minor in Computer Science. My master's thesis was on accelerating cosmological N-Body simulations using deep learning<sup>[[Abstract]](https://dl.acm.org/doi/abs/10.1145/3570991.3571023)</sup>. My broad research interests lie in the fields of physics-informed neural networks, computer vision techniques, numerical relativity, and
+I am a Research Scholar at Dr. Subhankar Mishra’s Lab (@[smlab-niser](https://github.com/smlab-niser/)), National Institute of Science Education and Research (NISER), Bhubaneswar, India. I completed my Integrated M.S. at NISER in 2022, majoring in Physics, with a minor in Computer Science. My master's thesis was on accelerating cosmological N-Body simulations using deep learning<sup>[[Abstract]](https://dl.acm.org/doi/abs/10.1145/3570991.3571023)</sup>. My broad research interests lie in the fields of physics-informed neural networks, computer vision techniques, numerical relativity, and
 quantum information & quantum computing. I am also a maintainer @[einsteinpy](https://github.com/einsteinpy/einsteinpy), having contributed to the project for Google Summer of Code 2020, and the code owner of [Project Tirtha](https://github.com/smlab-niser/tirtha-public/), an automated platform for crowd-sourced 3D reconstruction of heritage sites. I am currently working on implementing Gaussian Splatting in the Tirtha pipeline. I am interested in collaborations & projects at the confluence of physics and deep learning.
 
 ----
 ### Publications
-* [Orcid](https://orcid.org/0000-0002-2688-9421)
 * [Google Scholar](https://scholar.google.com/citations?user=_oZOByUAAAAJ&hl=en)
+* [Orcid](https://orcid.org/0000-0002-2688-9421)
 
 ### Socials
 * [LinkedIn](https://www.linkedin.com/in/jshivottam/)
 * [ACM vCard](https://member.acm.org/~jshivottam)
 
+### Coding
+* My [dotfiles](https://github.com/JeS24/dotfiles).
+* Some of my SciComp projects:
+  * [Term paper reproducing & analyzing the results of a paper applying continuous-time quantum random walks to the graph isomorphism problem (Python + HPC)](https://github.com/JeS24/CTQW-graph-isomorphism)
+  * [Code related to the Computational Physics Lab course (P342) (Python)](https://github.com/JeS24/P342---Computational-Physics-Laboratory)
+  * [Code related to an advanced Computational Physics course (P452) (Python)](https://github.com/JeS24/p452-comp-phys-all)
+  * [Masters Lab 2 - Setup and analysis of Z-Scan data in nonlinear optics (Python)](https://github.com/JeS24/z_scan)
+  * [Masters Lab 1 - Data analysis and simulations of optical image processors using Fourier Optics (Python)](https://github.com/JeS24/fourieroptics)
+  * [Experiments with UMAP for dimensionality reduction (Python)](https://github.com/JeS24/umap-cs460)
+  * [Simple Random Walk written in C++ / CUDA C](https://github.com/JeS24/RandomWalk)
+
+<!-- TODO: Add ML projects -->
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500size=24&duration=4000&pause=1000&width=435&lines=I+am+an+aspiring+Data+Scientist!)](https://git.io/typing-svg) -->
 ----
