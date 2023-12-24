@@ -16,7 +16,10 @@ quantum information & quantum computing. I am also a maintainer @[einsteinpy](ht
 
 ### Coding
 * My [dotfiles](https://github.com/JeS24/dotfiles).
-* Some of my SciComp projects:
+* Some of my data-science-related repos:
+  * [CODS COMAD 2024 Data Challenge](https://github.com/JeS24/kaggle-cods23) (Ranked 3rd)
+  * [DeepHalo (Code currently unavailable)](https://github.com/deephalo/deephalo) (Master's Thesis)
+* Some of my SciComp-related repos:
   * [Term paper reproducing & analyzing the results of a paper applying continuous-time quantum random walks to the graph isomorphism problem (Python + HPC)](https://github.com/JeS24/CTQW-graph-isomorphism)
   * [Code related to the Computational Physics Lab course (P342) (Python)](https://github.com/JeS24/P342---Computational-Physics-Laboratory)
   * [Code related to an advanced Computational Physics course (P452) (Python)](https://github.com/JeS24/p452-comp-phys-all)
