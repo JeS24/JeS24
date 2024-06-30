@@ -2,8 +2,9 @@
 
 *Je m'appelle Jyotirmaya.*
 
-I am a Research Scholar at Dr. Subhankar Mishra’s Lab (@[smlab-niser](https://github.com/smlab-niser/)), National Institute of Science Education and Research (NISER), Bhubaneswar, India. I completed my Integrated M.S. at NISER in 2022, majoring in Physics, with a minor in Computer Science. My master's thesis was on accelerating cosmological N-Body simulations using deep learning<sup>[[Abstract]](https://dl.acm.org/doi/abs/10.1145/3570991.3571023)</sup>. My broad research interests lie in the fields of physics-informed neural networks, computer vision techniques, numerical relativity, and
-quantum information & quantum computing. I am also a maintainer @[einsteinpy](https://github.com/einsteinpy/einsteinpy), having contributed to the project for Google Summer of Code 2020, and the code owner of [Project Tirtha](https://github.com/smlab-niser/tirtha-public/), an automated platform for crowd-sourced 3D reconstruction of heritage sites. I am currently working on implementing Gaussian Splatting in the Tirtha pipeline. I am interested in collaborations & projects at the confluence of physics and deep learning.
+I am a Research Scholar at Dr. Subhankar Mishra’s Lab (@[smlab-niser](https://github.com/smlab-niser/)), National Institute of Science Education and Research (NISER), Bhubaneswar, India. I completed my Integrated M.S. at NISER in 2022, majoring in Physics, with a minor in Computer Science. My master's thesis was on accelerating cosmological N-Body simulations using deep learning<sup>[[Abstract]](https://dl.acm.org/doi/abs/10.1145/3570991.3571023)</sup>. My research interests include Computer Vision and Natural Language Processing, using Generative AI and Foundation Models. I am also interested in collaborations & projects at the confluence of Physics and Deep Learning.
+
+I am also a maintainer @[einsteinpy](https://github.com/einsteinpy/einsteinpy), having contributed to the project for Google Summer of Code 2020, and the code owner of [Project Tirtha](https://github.com/smlab-niser/tirtha-public/), an automated platform for crowd-sourced 3D reconstruction of heritage sites.
 
 ----
 ### Publications
