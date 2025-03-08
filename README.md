@@ -1,10 +1,12 @@
 <h3 align=center>Bonjour👋</h3>
 
-*Je m'appelle Jyotirmaya.*
+_Je m'appelle Jyotirmaya._
 
-I am a Research Scholar in Computer Science (Machine Learning) at Dr. Subhankar Mishra’s Lab (@[smlab-niser](https://github.com/smlab-niser/)), National Institute of Science Education and Research (NISER, an OCC of Homi Bhabha National Institute), Bhubaneswar, India. I completed my Integrated M.S. at NISER in 2022, majoring in Physics, with a minor in Computer Science. My master's thesis was on accelerating cosmological N-Body simulations using deep learning<sup>[[Abstract]](https://dl.acm.org/doi/abs/10.1145/3570991.3571023)</sup>. My research interests include Computer Vision and Natural Language Processing, using Generative AI and Foundation Models. I am also interested in collaborations & projects at the confluence of Neural Differential Equations and Physics.
+I am a Research Scholar in Computer Science (Machine Learning) at Dr. Subhankar Mishra’s Lab (@[smlab-niser](https://github.com/smlab-niser/)), NISER, Homi Bhabha National Institute (HNBI), India. I completed my Integrated M.S. at NISER in 2022, majoring in Physics, with a minor in Computer Science. My master's thesis was on accelerating cosmological N-Body simulations using deep learning<sup>[[Abstract]](https://dl.acm.org/doi/abs/10.1145/3570991.3571023)</sup>.
 
-I am also a maintainer @[einsteinpy](https://github.com/einsteinpy/einsteinpy), having contributed to the project for Google Summer of Code 2020, and the code owner of [Project Tirtha](https://github.com/smlab-niser/tirtha-public/), an automated platform for crowd-sourced 3D reconstruction of heritage sites.
+My research interests lie in Geometric Deep Learning, primarily, Graph Neural Networks and Graph Neural Differential Equations. I am particularly interested in the confluence of Neural Differential Equations and Physics and welcome collaborations in this area.
+
+I am also a maintainer @[einsteinpy](https://github.com/einsteinpy/einsteinpy), having contributed to the project for Google Summer of Code 2020, and the code owner of [Project Tirtha](https://github.com/smlab-niser/tirtha-public/), an automated platform for crowd-sourced 3D reconstruction of heritage sites using neural rendering techniques.
 
 ----
 ### Publications
@@ -33,16 +35,19 @@ I am also a maintainer @[einsteinpy](https://github.com/einsteinpy/einsteinpy), 
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500size=24&duration=4000&pause=1000&width=435&lines=I+am+an+aspiring+Data+Scientist!)](https://git.io/typing-svg) -->
 ----
+
+<!-- 
+
 <div align=center>
 
 ### Tech stack
-[![JeS24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jes24&layout=compact&theme=radical&show_icons=true&langs_count=10)](https://github.com/jes24/github-readme-stats)
+[![JeS24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jes24&layout=compact&theme=radical&show_icons=true&langs_count=10)](https://github.com/jes24/github-readme-stats) 
+
 | (Courtesy of academia) | ![JeS24's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jes24&layout=compact&theme=radical&langs_count=10) |
 |:--:|:--:|
 | **(A more interesting view)** | ![JeS24's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jes24&layout=compact&theme=radical&langs_count=10&hide=jupyter%20notebook) |
 
-
-<!-- <img width="500" src="https://metrics.lecoq.io/jes24" alt="Github Metrics"> -->
+<img width="500" src="https://metrics.lecoq.io/jes24" alt="Github Metrics">
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
@@ -95,3 +100,5 @@ I am also a maintainer @[einsteinpy](https://github.com/einsteinpy/einsteinpy), 
 </div>
 
 ----
+
+-->
