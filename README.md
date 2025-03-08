@@ -6,7 +6,7 @@ I am a Research Scholar in Computer Science (Machine Learning) at Dr. Subhankar 
 
 My research interests lie in Geometric Deep Learning, primarily, Graph Neural Networks and Graph Neural Differential Equations. I am particularly interested in the confluence of Neural Differential Equations and Physics and welcome collaborations in this area.
 
-I am also a maintainer @[einsteinpy](https://github.com/einsteinpy/einsteinpy), having contributed to the project for Google Summer of Code 2020, and the code owner of [Project Tirtha](https://github.com/smlab-niser/tirtha-public/), an automated platform for crowd-sourced 3D reconstruction of heritage sites using neural rendering techniques.
+I am also a maintainer @[einsteinpy](https://github.com/einsteinpy/einsteinpy), having contributed to the project for Google Summer of Code 2020, and the code owner of [Project Tirtha](https://github.com/smlab-niser/tirtha-public/), an automated platform for crowd-sourced 3D reconstruction of heritage sites using neural reconstruction and rendering techniques.
 
 ----
 ### Publications
