@@ -2,7 +2,7 @@
 
 _Je m'appelle Jyotirmaya._
 
-I am a Research Scholar in Computer Science (Machine Learning) at Dr. Subhankar Mishra’s Lab (@[smlab-niser](https://github.com/smlab-niser/)), NISER, Homi Bhabha National Institute (HNBI), India. I completed my Integrated M.S. at NISER in 2022, majoring in Physics, with a minor in Computer Science. My master's thesis was on accelerating cosmological N-Body simulations using deep learning<sup>[[Abstract]](https://dl.acm.org/doi/abs/10.1145/3570991.3571023)</sup>.
+I am a Research Scholar in Computer Science (Machine Learning) at Dr. Subhankar Mishra’s Lab (@[smlab-niser](https://github.com/smlab-niser/)), NISER, HBNI, India. I completed my Integrated M.S. at NISER in 2022, majoring in Physics, with a minor in Computer Science. My master's thesis was on accelerating cosmological N-Body simulations using deep learning<sup>[[Abstract]](https://dl.acm.org/doi/abs/10.1145/3570991.3571023)</sup>.
 
 My research interests lie in Geometric Deep Learning, primarily, Graph Neural Networks and Graph Neural Differential Equations. I am particularly interested in the confluence of Neural Differential Equations and Physics and welcome collaborations in this area.
 
